@@ -1,0 +1,6 @@
+{
+  "name": "Leandro Corrêa Launcher TV",
+  "description": "Launcher moderno idêntico para TCL OLED 55 Google TV, Xiaomi Mi Stick e celulares, com navegação por controle remoto, sons modernos e personalização de favoritos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
